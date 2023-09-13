@@ -1,8 +1,10 @@
 [
-  {
-    "index": 0,
-    "soal": "https://telegra.ph/file/264795becc99d980a49bf.jpg",
-    "tipe": "Profesi",
-    "jawaban": "PELAYAN"
-  }
-    ]
+    {
+        "img": "https://flagpedia.net/data/flags/w702/af.png",
+        "name": "Afghanistan"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/ax.png",
+        "name": "Åland Islands"
+    }
+]
